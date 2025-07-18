@@ -24,13 +24,14 @@ Este proyecto muestra mi capacidad como QA para diseñar, ejecutar y automatizar
 
 ## 🗂️ Estructura del proyecto
 
+```
 qa-api-postman/
 ├── collections/
 ├── environments/
 ├── tests/
 ├── notion_integration/
 └── README.md
-
+```
 
 ---
 
