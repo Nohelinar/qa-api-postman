@@ -4,7 +4,7 @@ Este proyecto muestra mi capacidad como QA para diseñar, ejecutar y automatizar
 
 ---
 
-🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 
 - Validar operaciones CRUD sobre la API de usuarios de GoRest.
 - Documentar y automatizar los tests con Postman + Newman.
@@ -13,7 +13,7 @@ Este proyecto muestra mi capacidad como QA para diseñar, ejecutar y automatizar
 
 ---
 
-🛠️ Herramientas utilizadas
+## 🛠️ Herramientas utilizadas
 
 - Postman  
 - Newman  
