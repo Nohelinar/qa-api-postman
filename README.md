@@ -64,3 +64,22 @@ Casos negativos:
 newman run collections/gorest_users_collection.json \
   -e environments/gorest_env.json \
   -r cli,html --reporter-html-export tests/newman-report.html
+```
+El reporte se guarda en /tests/newman-report.html
+
+## 📊 Integración con Notion
+
+Visualización de resultados de test vía API
+Dashboard con test, fecha, estado, error, etc.
+
+## 🐞 Bugs simulados reportados
+Se permite crear usuario sin email válido
+GET con ID inválido no devuelve 404
+(Capturas incluidas en carpeta /bugs)
+
+## 💡 Aprendizajes
+Cobertura de pruebas para una API pública
+Uso de Postman + Newman + automatización
+Documentación clara para equipos técnicos
+
+
